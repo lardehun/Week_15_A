@@ -1,0 +1,1 @@
+c:\users\szabo mate\documents\visual studio 2015\Projects\Week_15_A\RegularExpression\bin\Debug\RegularExpression.exe.config
